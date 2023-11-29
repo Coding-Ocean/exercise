@@ -1,11 +1,15 @@
 #include"name10.h"
+#include"name09.h"
+#include"name29.h"
+#include "name02.h"
+
 int main()
 {
-	//name02();
+	name02();
 	//name04();
 	//name05();
 	//name08();
-	//name09();
+	name09();
 	name10();
 	//name13();
 	//name17();
@@ -15,6 +19,6 @@ int main()
 	//name25();
 	//name27();
 	//name28();
-	//name29();
+	name29();
 	return 0;
 }
