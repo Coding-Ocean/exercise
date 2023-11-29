@@ -1,4 +1,4 @@
-
+#include"name27.h"
 int main()
 {
 	//name02();
@@ -13,7 +13,7 @@ int main()
 	//name22();
 	//name24();
 	//name25();
-	//name27();
+	name27();
 	//name28();
 	//name29();
 	return 0;
