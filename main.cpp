@@ -1,3 +1,4 @@
+#include"name25.h"
 #include"name27.h"
 #include"name17.h"
 #include"name13.h"
@@ -26,6 +27,12 @@ int main()
 	name13();
 	name17();
 	//name18();
+	//name22();
+	//name24();
+	name25();
+	//name27();
+	//name28();
+	//name29();
 	name22();
 	name24();
 	//name25();
