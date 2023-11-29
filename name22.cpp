@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 void name22(){
-	printf("¼R°‹P");
+	printf("¼R°‹P\n");
 }
