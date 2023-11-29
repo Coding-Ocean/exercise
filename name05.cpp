@@ -1,5 +1,5 @@
 #include"name05.h"
 #include<stdio.h>
 void name05() {
-	printf("小田　圭介");
+	printf("小田　圭介\n");
 }
