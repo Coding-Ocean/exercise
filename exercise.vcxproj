@@ -132,6 +132,50 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="name27.h" />
+    <ClCompile Include="name17.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name17.h" />
+    <ClCompile Include="name13.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name13.h" />
+    <ClCompile Include="name24.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name24.h" />
+    <ClCompile Include="name28.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name28.h" />
+    <ClCompile Include="name22.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name22.h" />
+    <ClCompile Include="name05.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name05.h" />
+    <ClCompile Include="name08.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name08.h" />
+    <ClCompile Include="name10.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name10.h" />
+    <ClCompile Include="name09.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name09.h" />
+    <ClCompile Include="name29.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name29.h" />
+    <ClCompile Include="name02.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name02.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
