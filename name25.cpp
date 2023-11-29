@@ -1,0 +1,5 @@
+#include"name25.h"
+#include<stdio.h>
+void name25() {
+	printf("ë∫è„Å@çI\n");
+}
