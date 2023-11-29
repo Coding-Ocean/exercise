@@ -2,6 +2,11 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+
+    <ClCompile Include="name09.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name09.h" />
     <ClCompile Include="name29.cpp" />
   </ItemGroup>
   <ItemGroup>
