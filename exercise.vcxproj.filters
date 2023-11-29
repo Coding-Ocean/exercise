@@ -6,5 +6,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="name29.h" />
+    <ClCompile Include="name02.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="name02.h" />
   </ItemGroup>
 </Project>

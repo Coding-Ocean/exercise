@@ -1,7 +1,10 @@
+
 #include"name29.h"
+#include "name02.h"
+
 int main()
 {
-	//name02();
+	name02();
 	//name04();
 	//name05();
 	//name08();
