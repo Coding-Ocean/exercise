@@ -1,11 +1,11 @@
-
+#include"name09.h"
 int main()
 {
 	//name02();
 	//name04();
 	//name05();
 	//name08();
-	//name09();
+	name09();
 	//name10();
 	//name13();
 	//name17();
