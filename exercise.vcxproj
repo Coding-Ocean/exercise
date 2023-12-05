@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="name04.cpp" />
     <ClCompile Include="name18.cpp" />
+    <ClInclude Include="name04.h" />
     <ClInclude Include="name18.h" />
     <ClCompile Include="name25.cpp" />
     <ClInclude Include="name25.h" />
